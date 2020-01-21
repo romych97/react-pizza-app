@@ -1,0 +1,75 @@
+{
+  "products": [{
+      "id": "1",
+      "name": "Пицца 'Классическая'",
+      "image": "images/royale.jpeg",
+      "price": "$1.99",
+      "colors": ["small", "medium", "large"],
+      "condition": "Fresh",
+      "description": "Обычная пицца..."
+    },
+    {
+      "id": "2",
+      "name": "Пицца 'Американо'",
+      "image": "images/royale.jpeg",
+      "price": "$2.99",
+      "colors": ["small", "medium"],
+      "condition": "Frozen",
+      "description": "Со вкусом гамбургера"
+    },
+    {
+      "id": "3",
+      "name": "Пицца 'Панамерикано'",
+      "image": "images/royale.jpeg",
+      "price": "$1.00",
+      "colors": ["medium"],
+      "condition": "Frozen",
+      "description": "Со вкусом чизбургера"
+    },
+    {
+      "id": "4",
+      "name": "Пицца 'Итальяно'",
+      "image": "images/royale.jpeg",
+      "price": "$1.49",
+      "colors": ["medium"],
+      "condition": "Fresh",
+      "description": "Грибы и сыр"
+    },
+    {
+      "id": "5",
+      "name": "Пицца 'Отечественная'",
+      "image": "images/royale.jpeg",
+      "price": "$1.69",
+      "colors": ["medium"],
+      "condition": "Fresh",
+      "description": "Со вкусом борща"
+    },
+    {
+      "id": "6",
+      "name": "Пицца По Казахски",
+      "image": "images/royale.jpeg",
+      "price": "$1.69",
+      "colors": ["medium"],
+      "condition": "Fresh",
+      "description": "Со вкусом баранины"
+    },
+    {
+      "id": "7",
+      "name": "Пицца 'Тайская'",
+      "image": "images/royale.jpeg",
+      "price": "$1.69",
+      "colors": ["medium"],
+      "condition": "Fresh",
+      "description": "Со вкусом том яма"
+    },
+    {
+      "id": "8",
+      "name": "Пицца 'Микс'",
+      "image": "images/royale.jpeg",
+      "price": "$1.69",
+      "colors": ["medium"],
+      "condition": "Fresh",
+      "description": "Все в одном"
+    }
+  ]
+}
