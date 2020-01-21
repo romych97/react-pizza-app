@@ -1,2 +1,2 @@
 Demo
-http://react-compare-app.surge.sh
+https://react-pizza-app-001.herokuapp.com
