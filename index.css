@@ -1,0 +1,26 @@
+.calculator__count-item-info.required:after {
+    content: '*';
+    color: red;
+}
+
+span.calculator__count-item-info.item-active:after {
+    content: '*';
+    color: red;
+}
+
+.span-checkbox {
+    background: gray !important;;
+}
+.span-checkbox.checked {
+    background: red !important;
+}
+
+.span-checkbox:after {
+    left: 0px;
+    right: auto;
+}
+
+.span-checkbox.checked:after {
+    right: 0px;
+    left: auto;
+}
